@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pascommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-27 12:00+0000\n"
+"PO-Revision-Date: 2023-10-27 12:05+0700\n"
+"Last-Translator: Pasdigi <dev@pasdigi.com>\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+
+msgid "Pascommerce"
+msgstr "Pascommerce"
+
+msgid "Core commerce framework. Modular, lightweight, and secure."
+msgstr "Framework toko online inti. Modular, ringan, dan aman."
+
+msgid "Products"
+msgstr "Produk"
+
+msgid "Product"
+msgstr "Produk"
+
+msgid "Add New"
+msgstr "Tambah Baru"
+
+msgid "Add New Product"
+msgstr "Tambah Produk Baru"
+
+msgid "Edit Product"
+msgstr "Edit Produk"
+
+msgid "View Product"
+msgstr "Lihat Produk"
+
+msgid "All Products"
+msgstr "Semua Produk"
+
+msgid "Search Products"
+msgstr "Cari Produk"
+
+msgid "No products found"
+msgstr "Produk tidak ditemukan"
+
+msgid "Orders"
+msgstr "Pesanan"
+
+msgid "Order"
+msgstr "Pesanan"
+
+msgid "All Orders"
+msgstr "Semua Pesanan"
+
+msgid "Edit Order"
+msgstr "Edit Pesanan"
+
+msgid "View Order"
+msgstr "Lihat Pesanan"
+
+msgid "Search Orders"
+msgstr "Cari Pesanan"
+
+msgid "No orders found"
+msgstr "Pesanan tidak ditemukan"
+
+msgid "Product Data"
+msgstr "Data Produk"
+
+msgid "Product Type"
+msgstr "Tipe Produk"
+
+msgid "Physical Product"
+msgstr "Produk Fisik"
+
+msgid "Digital Product"
+msgstr "Produk Digital"
+
+msgid "Price"
+msgstr "Harga"
+
+msgid "Weight (Gram)"
+msgstr "Berat (Gram)"
+
+msgid "Cart is empty."
+msgstr "Keranjang kosong."
+
+msgid "Product #%d (Deleted)"
+msgstr "Produk #%d (Dihapus)"
+
+msgid "Order #%s - %s"
+msgstr "Order #%s - %s"
+
+msgid "Failed to create order."
+msgstr "Gagal membuat pesanan."
+
+msgid "General"
+msgstr "Umum"
+
+msgid "Shipping"
+msgstr "Pengiriman"
+
+msgid "Payment"
+msgstr "Pembayaran"
+
+msgid "Add-ons"
+msgstr "Add-ons"
+
+msgid "Passcommerce Settings"
+msgstr "Pengaturan Passcommerce"
+
+msgid "Store Information"
+msgstr "Informasi Toko"
+
+msgid "Store Name"
+msgstr "Nama Toko"
+
+msgid "Country"
+msgstr "Negara"
+
+msgid "Product URL Slug"
+msgstr "Slug URL Produk"
+
+msgid "Default: product. Please click \"Save Permalinks\" in WordPress Settings after changing this."
+msgstr "Default: product. Silakan klik \"Simpan Permalinks\" di Pengaturan WordPress setelah mengubah ini."
+
+msgid "Page Setup"
+msgstr "Pengaturan Halaman"
+
+msgid "Select pages where Passcommerce shortcodes are located."
+msgstr "Pilih halaman tempat shortcode Passcommerce berada."
+
+msgid "Shop Page"
+msgstr "Halaman Toko"
+
+msgid "Cart Page"
+msgstr "Halaman Keranjang"
+
+msgid "Checkout Page"
+msgstr "Halaman Checkout"
+
+msgid "My Account Page"
+msgstr "Halaman Akun Saya"
+
+msgid "-- Select Page --"
+msgstr "-- Pilih Halaman --"
+
+msgid "Shipping Options"
+msgstr "Opsi Pengiriman"
+
+msgid "Enable Shipping"
+msgstr "Aktifkan Pengiriman"
+
+msgid "Flat Rate Cost (Fallback)"
+msgstr "Biaya Flat Rate (Cadangan)"
+
+msgid "Manual Bank Transfer"
+msgstr "Transfer Bank Manual"
+
+msgid "Bank Accounts Info"
+msgstr "Info Rekening Bank"
+
+msgid "Enter bank details manually here (e.g., BCA 123456 - Name)."
+msgstr "Masukkan detail bank secara manual di sini (contoh: BCA 123456 - Nama)."
+
+msgid "Coming Soon"
+msgstr "Segera Hadir"
+
+msgid "Buy Premium"
+msgstr "Beli Premium"
+
+msgid "Settings"
+msgstr "Pengaturan"
+
+msgid "Passcommerce Overview"
+msgstr "Ringkasan Passcommerce"
+
+msgid "Pending Orders"
+msgstr "Pesanan Pending"
+
+msgid "Manage Orders"
+msgstr "Kelola Pesanan"

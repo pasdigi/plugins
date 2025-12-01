@@ -1,0 +1,26 @@
+/* Layout Admin Profesional */
+.pc-meta-wrapper { display: flex; border: 1px solid #ccd0d4; background: #fff; min-height: 300px; box-shadow: 0 1px 1px rgba(0,0,0,.04); }
+.pc-meta-tabs { width: 160px; background: #f0f0f1; border-right: 1px solid #ccd0d4; margin: 0; padding: 0; list-style: none; }
+.pc-meta-tabs li { padding: 15px; cursor: pointer; border-bottom: 1px solid #e0e0e0; font-weight: 500; color: #555; transition: 0.2s; }
+.pc-meta-tabs li:hover { background: #fff; color: #2271b1; }
+.pc-meta-tabs li.active { background: #fff; color: #2271b1; border-right: 1px solid #fff; margin-right: -1px; font-weight: bold; }
+.pc-meta-tabs li span { color: #a0a5aa; margin-right: 5px; }
+
+.pc-meta-content { flex: 1; padding: 20px; }
+.pc-tab-pane { display: none; }
+.pc-tab-pane.active { display: block; }
+
+.pc-form-group { margin-bottom: 15px; }
+.pc-form-group label { display: block; font-weight: 600; margin-bottom: 5px; }
+
+/* Variants Style */
+.pc-variant-item { border: 1px solid #ccd0d4; background: #fafafa; margin-bottom: 10px; border-radius: 4px; }
+.pc-var-header { padding: 10px; background: #f0f0f1; border-bottom: 1px solid #ccd0d4; display: flex; justify-content: space-between; align-items: center; }
+.pc-var-body { padding: 10px; display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; }
+
+/* Gallery Style */
+.pc-gallery-preview { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px; }
+.pc-gal-item { width: 80px; height: 80px; position: relative; border: 1px solid #ddd; }
+.pc-gal-item img { width: 100%; height: 100%; object-fit: cover; }
+.pc-gal-remove { position: absolute; top: -5px; right: -5px; background: red; color: white; border-radius: 50%; width: 18px; height: 18px; text-align: center; line-height: 16px; font-size: 12px; cursor: pointer; }
+}

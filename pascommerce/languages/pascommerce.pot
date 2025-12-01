@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pascommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://pasdigi.com/contact\n"
+"POT-Creation-Date: 2023-10-27 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: pascommerce\n"
+
+#. Plugin Name
+msgid "Pascommerce"
+msgstr ""
+
+#. Description
+msgid "Core commerce framework. Modular, lightweight, and secure."
+msgstr ""
+
+msgid "Products"
+msgstr ""
+
+msgid "Product"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Add New Product"
+msgstr ""
+
+msgid "Edit Product"
+msgstr ""
+
+msgid "View Product"
+msgstr ""
+
+msgid "All Products"
+msgstr ""
+
+msgid "Search Products"
+msgstr ""
+
+msgid "No products found"
+msgstr ""
+
+msgid "Orders"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "All Orders"
+msgstr ""
+
+msgid "Edit Order"
+msgstr ""
+
+msgid "View Order"
+msgstr ""
+
+msgid "Search Orders"
+msgstr ""
+
+msgid "No orders found"
+msgstr ""
+
+msgid "Product Data"
+msgstr ""
+
+msgid "Product Type"
+msgstr ""
+
+msgid "Physical Product"
+msgstr ""
+
+msgid "Digital Product"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Weight (Gram)"
+msgstr ""
+
+msgid "Cart is empty."
+msgstr ""
+
+msgid "Product #%d (Deleted)"
+msgstr ""
+
+msgid "Order #%s - %s"
+msgstr ""
+
+msgid "Failed to create order."
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Shipping"
+msgstr ""
+
+msgid "Payment"
+msgstr ""
+
+msgid "Add-ons"
+msgstr ""
+
+msgid "Pascommerce Settings"
+msgstr ""
+
+msgid "Store Information"
+msgstr ""
+
+msgid "Store Name"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Product URL Slug"
+msgstr ""
+
+msgid "Default: product. Please click \"Save Permalinks\" in WordPress Settings after changing this."
+msgstr ""
+
+msgid "Page Setup"
+msgstr ""
+
+msgid "Select pages where Pascommerce shortcodes are located."
+msgstr ""
+
+msgid "Shop Page"
+msgstr ""
+
+msgid "Cart Page"
+msgstr ""
+
+msgid "Checkout Page"
+msgstr ""
+
+msgid "My Account Page"
+msgstr ""
+
+msgid "-- Select Page --"
+msgstr ""
+
+msgid "Shipping Options"
+msgstr ""
+
+msgid "Enable Shipping"
+msgstr ""
+
+msgid "Flat Rate Cost (Fallback)"
+msgstr ""
+
+msgid "Manual Bank Transfer"
+msgstr ""
+
+msgid "Bank Accounts Info"
+msgstr ""
+
+msgid "Enter bank details manually here (e.g., BCA 123456 - Name)."
+msgstr ""
+
+msgid "Coming Soon"
+msgstr ""
+
+msgid "Buy Premium"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Pascommerce Overview"
+msgstr ""
+
+msgid "Pending Orders"
+msgstr ""
+
+msgid "Manage Orders"
+msgstr ""
